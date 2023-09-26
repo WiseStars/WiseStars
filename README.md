@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WiseStars
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c/c++/c#
+- 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 3614456517@qq.com or https://www.luogu.com.cn/paste/s27d0m0r
 
